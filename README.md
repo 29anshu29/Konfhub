@@ -1,8 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Konfhub React Project
+ Follow the instructions below to get it up and running on your local machine.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Prerequisites
+Before you begin, ensure you have met the following requirements:
+
+Node.js: Ensure you have Node.js installed on your machine. You can download it from nodejs.org.
+npm or yarn: Node Package Manager (npm) is included with Node.js. 
+
+# Installation
+Clone the repository
+
+Open your terminal and clone the repository:
+
+git clone https://github.com/29anshu29/Konfhub.git
+cd your-repo-name
+
+
+# To start the development server and run the project, use the following command:
+npm start
