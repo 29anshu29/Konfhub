@@ -5,16 +5,17 @@
 }
 .event-heading{
 
-    font-size: 10px bold;
+    font-size: 40px ;
     margin-left: 30px;
     font-family: serif;
 }
 
 .paragraph {
-    font-size: 16px; /* Adjust the font size as needed */
+    font-size: 25px; /* Adjust the font size as needed */
     line-height: 1.5; /* Optional: Set line height for better readability */
     color: #333; /* Optional: Set text color */
     size: 20px;
+    margin-left: 30px;
   }
 .eventimage{
 
@@ -22,7 +23,35 @@
     width: 410px;
     margin-left: 30px;
 }
-.youtube-containe{
-    margin-left:70px;
-    padding: 20px;
+.youtube-container{
+    margin-left:20px;
+    padding: 10px;
 }
+
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    padding-top: 10px;
+
+  }
+  
+  .data-table th, .data-table td  {
+    border: 1px solid #111111;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .data-table th {
+    background-color: #f4f4f4;
+    text-align: left;
+    justify-items: center;
+  }
+  
+  .data-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  .data-table tr{
+    justify-content: center;
+    align-items: center;
+  }
