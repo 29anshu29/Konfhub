@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+}
+.konLOgo{
+    height: 63px;
+    padding-left: 22px;
+    padding-top: 18px;
+}
